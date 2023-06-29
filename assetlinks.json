@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.monetizzeapp",
+    "sha256_cert_fingerprints":
+    ["12:04:17:60:BD:28:23:93:D0:50:EA:8B:EB:5A:90:00:EF:AD:DF:DA:58:53:28:52:1A:23:A9:E1:1F:26:31:73"]
+  }
+}]
