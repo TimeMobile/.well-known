@@ -1,0 +1,11 @@
+{
+  "applinks": {
+      "apps": [],
+      "details": [
+      {
+        "appID": "VK5UGNCZ5Z.br.com.monetizze",
+        "paths": ["/??", "/deeplink/?*", "/android/?*", "/ios/?*"]
+      }
+    ]
+  }
+}
